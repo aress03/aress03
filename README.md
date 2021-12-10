@@ -14,9 +14,8 @@
 
 ### Connect with me:
 <a href="https://twitter.com/akshaythamburu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akshaythamburu" height="30" width="40" /></a>
-
 <a href="https://instagram.com/akshay_thamburu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akshay_thamburu" height="30" width="40" /></a>
 
 <br />
 
-<p><a href="https://www.buymeacoffee.com/technorabit"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="technorabit" /></a></p>
+
