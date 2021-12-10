@@ -4,7 +4,7 @@
 
 ## I'm a Cyber Security Researcher , Coder
 
-- 💬 Ask me about Shell Scripting, Ethical Hacking, Penetration Testing.
+- 💬 Ask me about Shell Scripting, Ethical Hacking, Penetration Testing, Python.
 - 📫 Reach me at akshaythamburu3@gmail.com
 <!--
 - 👯 I’m looking to collaborate with other content creators
