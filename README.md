@@ -1,6 +1,5 @@
 ### Hi there, I'm Akshay 👋
 
-[![Instagram](https://www.instagram.com/akshay_thamburu/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/akshaythamburu?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fs4n7h0&screen_name=Akshay)
 
 ## I'm a Cyber Security Researcher , Coder
