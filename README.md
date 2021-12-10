@@ -1,6 +1,6 @@
 ### Hi there, I'm Akshay 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/akshaythamburu?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fs4n7h0&screen_name=Akshay)
+[![Twitter Follow](https://img.shields.io/twitter/follow/akshaythamburu?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fs4n7h0&screen_name=akshaythamburu)
 
 ## I'm a Cyber Security Researcher , Coder
 
@@ -13,11 +13,9 @@
 --> 
 
 ### Connect with me:
-<a href="https://twitter.com/techno_rabit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="techno_rabit" height="30" width="40" /></a>
-<a href="http://technorabit.unaux.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="technorabit" height="30" width="40" /></a> 
-<a href="https://instagram.com/_.v.shnu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.v.shnu" height="30" width="40" /></a>
-<a href="https://technorabit.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="technorabit" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCaPmFMugat7y-tD3PUcyu_g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/technorabit" height="30" width="40" /></a>
+<a href="https://twitter.com/akshaythamburu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akshaythamburu" height="30" width="40" /></a>
+
+<a href="https://instagram.com/akshay_thamburu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akshay_thamburu" height="30" width="40" /></a>
 
 <br />
 
