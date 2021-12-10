@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hi there, I'm Akshay 👋
 
+[![Instagram](https://www.instagram.com/akshay_thamburu/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/akshaythamburu?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fs4n7h0&screen_name=Akshay)
+
+## I'm a Cyber Security Researcher , Coder
+
+- 💬 Ask me about Shell Scripting, Ethical Hacking, Penetration Testing.
+- 📫 Reach me at akshaythamburu3@gmail.com
 <!--
-**aress03/aress03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2020 Goals: 
+- ⚡ Fun fact: 
+--> 
 
-Here are some ideas to get you started:
+### Connect with me:
+<a href="https://twitter.com/techno_rabit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="techno_rabit" height="30" width="40" /></a>
+<a href="http://technorabit.unaux.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="technorabit" height="30" width="40" /></a> 
+<a href="https://instagram.com/_.v.shnu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.v.shnu" height="30" width="40" /></a>
+<a href="https://technorabit.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="technorabit" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCaPmFMugat7y-tD3PUcyu_g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/technorabit" height="30" width="40" /></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+<p><a href="https://www.buymeacoffee.com/technorabit"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="technorabit" /></a></p>
